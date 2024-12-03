@@ -3,8 +3,7 @@
 ## Build Instruction
 ### Build the project
 g++ -o atm Account.cpp ATMController.cpp test_ATMController.cpp test_Account.cpp test_main.cpp
-g++ -o testATM test_ATMController.cpp ATMController.cpp Account.cpp
-./testATM 
+./atm 
 
 
 ### Clone the repository
