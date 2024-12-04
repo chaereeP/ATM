@@ -6,6 +6,5 @@
 #include <cassert>
 #include <iostream>
 
-void test_();
 int testAccount();
 #endif //TEST_ACCOUNT_H
