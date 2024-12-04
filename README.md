@@ -21,7 +21,8 @@ cd atm
 ## Description
 This project simulates an ATM Controller with the following features:
 - Create Account
-- Insert Card and validate Pin
+- Insert Card
+- Validate Pin
 - See Balance
 - Deposit and witrhdraw money
 
@@ -29,4 +30,6 @@ This project simulates an ATM Controller with the following features:
 - Test card insertion
 - Test invalid pin handling
 - Test invalid account selection
+- Test invalid behavior when no account is selected
+- Test invalid behavior when no PIN is inserted
 - Test invalid deposit and withdraw amount
