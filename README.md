@@ -10,8 +10,12 @@ g++ -o atm Account.cpp ATMController.cpp test_ATMController.cpp test_Account.cpp
 ```
 
 ### Clone the repository
+```
 git clone git@github.com:chaereeP/ATM.git
+```
+```
 cd atm
+```
 
 ## 
 ## Description
